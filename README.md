@@ -1,4 +1,4 @@
-### Hi, I'm Ifeanyi Emmanuel
+### Hi, I'm Ifeanyi Emmanuel (The 2 Minute Engineer)
 
 - 🖥️ I've been coding in JavaScript primarily for over 2years
 - 🦀 I’m writing Node.js at the moment and i'm enjoying backend side of things everyday
